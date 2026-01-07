@@ -4,7 +4,7 @@
 
 ### *Where Learning Meets Building. Where Students Become Creators.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Learn.+Build.+Collaborate.+Repeat.;By+Students%2C+For+Students+%F0%9F%9A%80;Open+Source+%7C+Real+Projects+%7C+Real+Growth" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Learn.+Build.+Collaborate.+Repeat.;By+Students%2C+For+Students;Open+Source+%7C+Real+Projects+%7C+Real+Growth" alt="Typing SVG" />
 
 ---
 
