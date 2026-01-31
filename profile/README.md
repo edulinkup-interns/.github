@@ -134,13 +134,9 @@ We’re actively working towards:
 
 ### **Join Our Growing Ecosystem** 🌟
 
-[![Website](https://img.shields.io/badge/🌍_Website-edulinkup.dev-6C63FF?style=for-the-badge&logoColor=white)](https://edulinkup.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn_Page-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/edulinkup) [![YouTube](https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EduLinkUp)
+[![Website](https://img.shields.io/badge/🌍_Website-edulinkup.dev-6C63FF?style=for-the-badge&logoColor=white)](https://edulinkup.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn_Page-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/edulinkup) [![YouTube](https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EduLinkUp) [![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edulinkup.dev)
 
 <img width="1920" height="1080" alt="Screenshot (704)" src="https://github.com/user-attachments/assets/9cb26c0c-3ce3-4f57-85d1-1614ce4a35aa" />
-
-### **Follow Us on Instagram** 📸
-
-[![Instagram Main](https://img.shields.io/badge/Main_Page-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edulinkup2026) [![Instagram JEE/NEET](https://img.shields.io/badge/JEE%2FNEET_Page-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edulinkupjee) [![Instagram Exams](https://img.shields.io/badge/Exam_Updates-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edulinkup_exams)
 
 ---
 
