@@ -144,7 +144,7 @@ We’re actively working towards:
 
 **Stay updated with everything happening in the EduLinkUp universe:**
 
-[![WhatsApp Community](https://img.shields.io/badge/WhatsApp_Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FriEJ8otpKVJux3H08SUhJ)
+[![WhatsApp Community](https://img.shields.io/badge/WhatsApp_Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JWoIMokEcWIBl9KQOIajmU)
 
 ---
 
