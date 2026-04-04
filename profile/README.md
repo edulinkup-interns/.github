@@ -13,7 +13,7 @@
 <div align="center">
 
 <a href="https://www.edulinkup.dev/blog/edulinkup-summer-of-code-2026-elusoc-2026">
-<img src="https://github.com/user-attachments/assets/9f18ce28-0a67-470b-a124-6bd6ffe6168a" alt="ELUSOC 2026 ~ Registrations Live!" width="100%" />
+<img src="Banner.jpeg" alt="ELUSOC 2026 ~ Registrations Live!" width="100%" />
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&width=650&lines=ELUSOC+2026+Registrations+are+LIVE!;EduLinkUp+Summer+of+Code+%7C+Free+%26+Open+Source;Contribute.+Learn.+Get+Certified!;Limited+Spots+~+Register+Now!" alt="ELUSOC typing tagline" />
