@@ -12,13 +12,13 @@
 
 <div align="center">
 
-<a href="https://www.edulinkup.dev/blog/edulinkup-summer-of-code-2026-elusoc-2026">
+<a href="https://www.edulinkup.dev/elusoc">
 <img src="Banner.jpeg" alt="ELUSOC 2026 ~ Registrations Live!" width="100%" />
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=900&color=FFD700&center=true&vCenter=true&width=650&lines=ELUSOC+2026+Registrations+are+LIVE!;EduLinkUp+Summer+of+Code+%7C+Free+%26+Open+Source;Contribute.+Learn.+Get+Certified!;Limited+Spots+~+Register+Now!" alt="ELUSOC typing tagline" />
 
-[![🏕️ Register for ELUSOC 2026 Now](https://img.shields.io/badge/🏕️_ELUSOC_2026_%7C_Registrations_LIVE-Register_Now_→-FFD700?style=for-the-badge&labelColor=1a1040&color=FFD700)](https://www.edulinkup.dev/blog/edulinkup-summer-of-code-2026-elusoc-2026)
+[![🏕️ Register for ELUSOC 2026 Now](https://img.shields.io/badge/🏕️_ELUSOC_2026_%7C_Registrations_LIVE-Register_Now_→-FFD700?style=for-the-badge&labelColor=1a1040&color=FFD700)](https://www.edulinkup.dev/elusoc)
 
 <sub>🟢 Open · Free · Open Source · Mentorship · Certificates · Prizes &nbsp;|&nbsp; <b>Spots are limited ~ don't wait!</b></sub>
 
