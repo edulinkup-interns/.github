@@ -18,7 +18,7 @@
 <img src="ELUCode.jpg" alt="ELUCode 5 ~ Register Now!" width="100%" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=900&color=FF6B35&center=true&vCenter=true&width=700&lines=🔥+ELUCode+Edition+5+is+HERE!;Competitive+Programming+%7C+Oct+10%2C+7+PM+–+9+PM;Edition+4+Winners+just+announced!;Register+Now+→+edulinkup.dev%2Felucode" alt="ELUCode typing tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=900&color=FF6B35&center=true&vCenter=true&width=700&lines=%F0%9F%94%A5+ELUCode+Edition+5+is+HERE!;Competitive+Programming+%7C+Oct+10%2C+7+PM+%E2%80%93+9+PM;Edition+4+Winners+just+announced!;Register+Now+%E2%86%92+edulinkup.dev%2Felucode" alt="ELUCode typing tagline" />
 
 [![🏆 Register for ELUCode 5](https://img.shields.io/badge/🔥_ELUCode_5_%7C_Oct_10_7PM–9PM-Register_Now_→-FF6B35?style=for-the-badge&labelColor=1a0a00&color=FF6B35)](https://www.edulinkup.dev/elucode)&nbsp;&nbsp;[![🏅 Edition 4 Winners](https://img.shields.io/badge/🏅_Edition_4_Winners-Announced!-gold?style=for-the-badge&labelColor=1a0800)](https://lnkd.in/p/d6PDEbXT)
 
