@@ -56,13 +56,13 @@ No weekend speed-runs. No code thrown away on Monday. A 60-day structured arena 
 
 <div align="center">
 
-<a href="https://www.edulinkup.dev/elucode">
+<a href="https://www.edulinkup.dev/events/elucode">
 <img src="ELUCode.png" alt="ELUCode 5 ~ Register Now!" width="100%" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=900&color=FF6B35&center=true&vCenter=true&width=700&lines=🔥+ELUCode+Edition+8+is+HERE!;Competitive+Programming+%7C+Nov+21%2C+7+PM+–+9+PM;Edition+6+Winners+just+announced!;Register+Now+→+edulinkup.dev%2Felucode" alt="ELUCode typing tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=900&color=FF6B35&center=true&vCenter=true&width=700&lines=%F0%9F%94%A5+ELUCode+Edition+8+is+HERE%21;Competitive+Programming+%7C+Nov+21%2C+7+PM+-+9+PM;Edition+6+Winners+just+announced%21;Register+Now+%E2%86%92+edulinkup.dev%2Fevents%2Felucode" alt="ELUCode typing tagline" />
 
-[![🏆 Register for ELUCode 8](https://img.shields.io/badge/🔥_ELUCode_8_%7C_Nov_21_7PM–9PM-Register_Now_→-FF6B35?style=for-the-badge&labelColor=1a0a00&color=FF6B35)](https://www.edulinkup.dev/elucode)&nbsp;&nbsp;[![🏅 Edition 6 Winners](https://img.shields.io/badge/🏅_Edition_6_Winners-Announced!-gold?style=for-the-badge&labelColor=1a0800)](https://lnkd.in/p/dhjyjKhv)
+[![🏆 Register for ELUCode 8](https://img.shields.io/badge/🔥_ELUCode_8_%7C_Nov_21_7PM–9PM-Register_Now_→-FF6B35?style=for-the-badge&labelColor=1a0a00&color=FF6B35)](https://www.edulinkup.dev/events/elucode)&nbsp;&nbsp;[![🏅 Edition 6 Winners](https://img.shields.io/badge/🏅_Edition_6_Winners-Announced!-gold?style=for-the-badge&labelColor=1a0800)](https://lnkd.in/p/dhjyjKhv)
 
 <sub>⚡ Competitive Programming Series · Free to Enter · Limited Spots · Sharpen your edge.</sub>
 
